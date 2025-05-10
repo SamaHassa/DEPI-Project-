@@ -1,5 +1,5 @@
 # DEPI-Project-
- Skin Cn Predictive Analytics Project
+ Skin Cancern 
 ## Getting Started
 ### Installation
 1. Clone the repository:
