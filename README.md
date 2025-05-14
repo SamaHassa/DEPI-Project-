@@ -1,6 +1,6 @@
 # 🧠 DEPI Project – Skin Cancer Classification
 
-This repository contains the codebase for the **Skin Cancer Classification** project developed as part of the **DEPI (Data-Driven Early Prediction Initiative)**. The goal is to build an AI-powered system that supports early detection and classification of various skin cancer types using metadata and dermoscopy images.
+This repository contains the codebase for the **Skin Cancer Classification** project developed as part of the **DEPI**. The goal is to build an AI-powered system that supports early detection and classification of various skin cancer types using metadata and dermoscopy images.
 
 ---
 
